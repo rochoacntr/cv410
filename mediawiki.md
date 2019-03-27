@@ -8,6 +8,13 @@
 
 
 
+
+
+
+
+
+
+
 # Que es Media Wiki
 MediaWiki es un software wiki de código abierto gratuito desarrollado por Magnus Manske que utiliza el lenguaje de programación PHP y una base de datos MySQL para almacenar información, y luego fue mejorado por Lee Daniel Croker. Las características y la facilidad de uso de MediaWiki no solo lo han hecho muy popular, sino que lo han convertido en el software líder en su categoría y actualmente se está utilizando en muchos sitios web. Algunos ejemplos incluyen Wikipedia, Wikimedia Commons y Wiktionary. La primera versión del software se lanzó el 25 de enero de 2002 para satisfacer las necesidades del sitio web de Wikipedia. En ese momento reemplazó a UseModWiki, el software wiki que ha estado usando desde su lanzamiento en 2001. Dado que Wikipedia es uno de los sitios web más grandes del mundo, las características de MediaWiki se han mejorado constantemente y ahora están optimizadas para grandes proyectos con terabytes de contenido y más. Que cien mil hits por segundo.
 
